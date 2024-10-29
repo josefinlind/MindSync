@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MindSync</title>
+</head>
+<body>
+    <h1>Welcome to MindSync</h1>
+    <p>MindSync is a digital platform that helps optimize mental focus and well-being.</p>
+</body>
+</html>
